@@ -4,7 +4,7 @@
 
 **Smart Multiplatform AI Assistant** is an intelligent, cross-platform mobile application designed to provide an all-in-one AI experience. You can chat with the assistant, send it images for analysis, generate images from prompts, and even detect objects around you using your phone's camera — all powered by modern AI APIs.
 
-![phone_images](phone_images.jpg)
+![phone_images](firstimg.png)
 
 ---
 
@@ -27,7 +27,7 @@
 - Built using **Google ML Kit**, including:
   - `google_mlkit_object_detection`
   - `google_mlkit_image_labeling`
-
+![phone_images](secondimg.png)
 ---
 
 ## 🔧 Tech Stack
