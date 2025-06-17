@@ -47,6 +47,6 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-ai-assistant.git
+   git clone https://github.com/oussamaaxkos/smart-ai-assistant.git
    cd smart-ai-assistant
 
