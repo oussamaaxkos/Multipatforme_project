@@ -1,6 +1,6 @@
 # Smart Multiplatform AI Assistant
 
-## 📱 Overview
+## Overview
 
 **Smart Multiplatform AI Assistant** is an intelligent, cross-platform mobile application designed to provide an all-in-one AI experience. You can chat with the assistant, send it images for analysis, generate images from prompts, and even detect objects around you using your phone's camera all powered by modern AI APIs.
 
@@ -10,21 +10,21 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🧠 Conversational AI (Gemini API)
+### Conversational AI (Gemini API)
 - Engage in natural, intelligent conversations.
 - Uses the **Gemini API** for advanced language understanding and response generation.
 
-### 🖼️ Image Description
+### Image Description
 - Upload or take a photo, and the assistant will describe the content.
 - Uses **Gemini Vision API** to analyze and explain the image.
 
-### 🎨 AI Image Generation
+### AI Image Generation
 - Generate high-quality images from text prompts.
 - Integrated with **Pllunation.ai API** for creative and customizable visuals.
 
-### 📷 Real-Time Object Detection
+### Real-Time Object Detection
 - Uses the phone camera to detect and identify objects around you in real time.
 - Built using **Google ML Kit**, including:
   - `google_mlkit_object_detection`
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Flutter** – Cross-platform UI framework
 - **Dart** – Main programming language
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 1. Clone the repository:
    ```bash
