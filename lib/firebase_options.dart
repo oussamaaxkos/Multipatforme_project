@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDUnhLoPczMCCAGrVm7mOovbXxkg0I2A-Y',
+    apiKey: '',
     appId: '1:808125533674:web:c4f1267ee09d943ec37693',
     messagingSenderId: '808125533674',
     projectId: 'fluttermobileapp-4c213',
