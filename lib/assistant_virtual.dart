@@ -42,7 +42,7 @@ class _AssistantVirtuelState extends State<AssistantVirtuel> with TickerProvider
   String? _imageName;
   String? _currentUserId;
 
-  static const String _geminiApiKey = 'AIzaSyDndzJxr0blcgnlSgoe_fb-Vvw8cwpIJm4';
+  static const String _geminiApiKey = '';
   static const String _geminiApiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
 
   @override
