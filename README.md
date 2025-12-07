@@ -1,4 +1,4 @@
-# Smart Multiplatform AI Assistan
+# Smart Multiplatform AI Assistant
 
 ## Overview
 
